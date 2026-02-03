@@ -3,9 +3,10 @@
 This repository contains a collection of hands‑on Azure labs that I’m creating to deepen my understanding of cloud services, administration, and security. While completing my Cybersecurity and Network Technology diploma, I gained exposure to core Azure concepts, but there were many areas I didn’t have the chance to fully explore. These labs are my way of expanding that foundation and developing real, practical cloud experience.
 
 Janurary - April 2026 
+
 I'm in my final term of school and one of my current courses for this repository is covering the CompTIA Cloud+ through their learn and lab platform. Not only that, we get to use the Azure for Student with the free credits after signing up and confirming our student statud. 
 
-As for right now it, it will be heavily focused on Azure. I will be updating as much as I can. At some point I will cover some AWS as well
+As for right now it, it will be heavily focused on Azure. I will be updating as much as I can by updating this main branch README as well as the other branched in their respective week.
 
 January 2026 - Week 1
 
